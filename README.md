@@ -1,5 +1,4 @@
-# Reverse-SSL-proxy-for-RADIUSdesk
-Reverse proxy configuration (NGINX) adding HTTPS support for RADIUSdesk
+# Reverse SSL proxy for RADIUSdesk
 
 NGINX server configuration file for RADIUSdesk  web dashboard. 
 
