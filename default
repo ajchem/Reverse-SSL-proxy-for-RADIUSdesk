@@ -6,7 +6,7 @@ server {
 	listen XXX.XXX.XXX.XXX:80;
 	server_name  RADIUSdesk.domain.example.com;
 	
-	#The .well-known directory alias for Let's Encrypt certificate renewals (used in this nginx.conf)
+	#The .well-known directory alias for Let's Encrypt certificate renewals (used in this conf)
 	location /.well-known/acme-challenge/ {
             allow all;
             default_type text/plain;
